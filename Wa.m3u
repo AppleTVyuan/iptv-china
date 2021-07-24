@@ -1,0 +1,186 @@
+#EXTM3U
+
+#EXTINF:-1 ,CCTV-1 综合 高清
+http://58.200.190.80/hls/hls74a1.m3u8
+#EXTINF:-1 ,CCTV-2 财经 高清
+http://58.200.190.80/hls/hls74a2.m3u8
+#EXTINF:-1 ,CCTV-3 综艺 高清
+http://58.200.190.80/hls/hls74a3.m3u8
+#EXTINF:-1 ,CCTV-4 中文国际 高清
+http://58.200.190.80/hls/hls74a4.m3u8
+#EXTINF:-1 ,CCTV-5 体育 高清
+http://58.200.190.80/hls/hls73a5.m3u8
+#EXTINF:-1 ,CCTV-5+ 体育赛事 高清
+http://58.200.190.80/hls/hls73a6.m3u8
+#EXTINF:-1 ,CCTV-6 电影 高清
+http://58.200.190.80/hls/jlu_cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-7 国防军事 高清
+http://58.200.190.80/hls/hls73a8.m3u8
+#EXTINF:-1 ,CCTV-8 电视剧 高清
+http://58.200.190.80/hls/hls72a9.m3u8
+#EXTINF:-1 ,CCTV-9 记录 高清
+http://58.200.190.80/hls/hls72a10.m3u8
+#EXTINF:-1 ,CCTV-10 科教 高清
+http://58.200.190.80/hls/hls72a11.m3u8
+#EXTINF:-1 ,CCTV-11 戏曲 高清
+http://58.200.190.80/hls/hls186a11.m3u8
+#EXTINF:-1 ,CCTV-12 社会与法 高清
+http://58.200.190.80/hls/hls72a12.m3u8
+#EXTINF:-1 ,CCTV-13 新闻 高清
+http://58.200.190.80/hls/hls186a13.m3u8
+#EXTINF:-1 ,CCTV-14 少儿 高清
+http://58.200.190.80/hls/hls71a13.m3u8
+#EXTINF:-1 ,CCTV-15 音乐 高清
+http://58.200.190.80/hls/hls186a15.m3u8
+#EXTINF:-1 ,CCTV-17 农业农村 高清
+http://58.200.190.80/hls/hls185a17.m3u8
+
+#EXTINF:-1 ,CCTV 电视指南 高清
+http://58.200.190.80/hls/hls186a88.m3u8
+#EXTINF:-1 ,CCTV 风云足球 高清
+http://58.200.190.80/hls/hls184a510.m3u8
+#EXTINF:-1 ,CCTV 第一剧场 高清
+http://58.200.190.80/hls/hls184a512.m3u8
+#EXTINF:-1 ,CCTV 世界地理 高清
+http://58.200.190.80/hls/hls184a515.m3u8
+#EXTINF:-1 ,CCTV 风云剧场 高清
+http://58.200.190.80/hls/hls184a516.m3u8
+#EXTINF:-1 ,CCTV 怀旧剧场 高清
+http://58.200.190.80/hls/hls184a518.m3u8
+#EXTINF:-1 ,CCTV 风云音乐 高清
+http://58.200.190.80/hls/hls184a519.m3u8
+#EXTINF:-1 ,CCTV 央视文化精品 高清
+http://58.200.190.80/hls/hls184a520.m3u8
+#EXTINF:-1 ,CCTV 女性时尚 高清
+http://58.200.190.80/hls/hls184a522.m3u8
+#EXTINF:-1 ,CCTV 兵器科技 高清
+http://58.200.190.80/hls/hls184a573.m3u8
+#EXTINF:-1 ,CCTV 央视台球 高清
+http://58.200.190.80/hls/hls184a574.m3u8
+
+#EXTINF:-1 ,CHC 家庭影院 高清
+http://58.200.190.80/hls/hls259.m3u8
+#EXTINF:-1 ,CHC 高清电影 高清
+http://58.200.190.80/hls/hls260.m3u8
+#EXTINF:-1 ,CHC 动作电影 高清
+http://58.200.190.80/hls/hls261.m3u8
+
+#EXTINF:-1 ,湖南卫视 高清
+http://58.200.190.80/hls/hls71a15.m3u8
+#EXTINF:-1 ,浙江卫视 高清
+http://58.200.190.80/hls/hls68a51.m3u8
+#EXTINF:-1 ,东方卫视 高清
+http://58.200.190.80/hls/hls69a24.m3u8
+#EXTINF:-1 ,江苏卫视 高清
+http://58.200.190.80/hls/hls68a52.m3u8
+#EXTINF:-1 ,北京卫视 高清
+http://58.200.190.80/hls/hls69a21.m3u8
+#EXTINF:-1 ,安徽卫视 高清
+http://58.200.190.80/hls/hls71a16.m3u8
+#EXTINF:-1 ,深圳卫视 高清
+http://58.200.190.80/hls/hls70a20.m3u8
+#EXTINF:-1 ,辽宁卫视 高清
+http://58.200.190.80/hls/hls185a393.m3u8
+#EXTINF:-1 ,贵州卫视 高清
+http://58.200.190.80/hls/hls186a71.m3u8
+#EXTINF:-1 ,吉林卫视 高清
+http://58.200.190.80/hls/hls186a72.m3u8
+#EXTINF:-1 ,黑龙江卫视 高清
+http://58.200.190.80/hls/hls71a14.m3u8
+#EXTINF:-1 ,天津卫视 高清
+http://58.200.190.80/hls/hls69a22.m3u8
+#EXTINF:-1 ,重庆卫视 高清
+http://58.200.190.80/hls/hls68a41.m3u8
+#EXTINF:-1 ,湖北卫视 高清
+http://58.200.190.80/hls/hls70a17.m3u8
+#EXTINF:-1 ,山东卫视 高清
+http://58.200.190.80/hls/hls70a18.m3u8
+#EXTINF:-1 ,广东卫视 高清
+http://58.200.190.80/hls/hls70a19.m3u8
+#EXTINF:-1 ,四川卫视 高清
+http://58.200.190.80/hls/hls67a42.m3u8
+#EXTINF:-1 ,河南卫视 高清
+http://58.200.190.80/hls/hls67a42.m3u8
+#EXTINF:-1 ,东南卫视 高清
+http://58.200.190.80/hls/hls77a55.m3u8
+#EXTINF:-1 ,海南卫视 高清
+http://58.200.190.80/hls/hls77a74.m3u8
+#EXTINF:-1 ,河北卫视 高清
+http://58.200.190.80/hls/jlu_hbhd1.m3u8
+#EXTINF:-1 ,江西卫视 高清
+http://58.200.190.80/hls/jxhd.m3u8
+#EXTINF:-1 ,广西卫视 高清
+http://58.200.190.80/hls/gxhd.m3u8
+
+#EXTINF:-1 ,辽宁经济 高清
+http://58.200.190.80/hls/hls185a540.m3u8
+#EXTINF:-1 ,辽宁公共 高清
+http://58.200.190.80/hls/hls185a541.m3u8
+#EXTINF:-1 ,沈阳新闻综合 高清
+http://58.200.190.80/hls/hls185a542.m3u8
+
+#EXTINF:-1 ,凤凰中文 高清
+http://58.200.190.80/hls/hls254.m3u8
+#EXTINF:-1 ,凤凰资讯 高清
+http://58.200.190.80/hls/hls255.m3u8
+
+#EXTINF:-1 ,北京文艺 高清
+http://58.200.190.80/hls/btv2hd.m3u8
+#EXTINF:-1 ,北京科教 高清
+http://58.200.190.80/hls/btv3hd.m3u8
+#EXTINF:-1 ,北京影视 高清
+http://58.200.190.80/hls/btv4hd.m3u8
+#EXTINF:-1 ,北京财经 高清
+http://58.200.190.80/hls/btv5hd.m3u8
+#EXTINF:-1 ,北京生活 高清
+http://58.200.190.80/hls/btv7hd.m3u8
+#EXTINF:-1 ,北京青年 高清
+http://58.200.190.80/hls/btv8hd.m3u8
+#EXTINF:-1 ,北京新闻 高清
+http://58.200.190.80/hls/btv9hd.m3u8
+#EXTINF:-1 ,北京冬奥纪实 高清
+http://58.200.190.80/hls/hls69a25.m3u8
+
+#EXTINF:-1 ,金鹰纪实 高清
+http://58.200.190.80/hls/hls75a26.m3u8
+#EXTINF:-1 ,纪实人文 高清
+http://58.200.190.80/hls/docuchina.m3u8
+#EXTINF:-1 ,全纪实 高清
+http://58.200.190.80/hls/hls184a639.m3u8
+#EXTINF:-1 ,足球频道 高清
+http://58.200.190.80/hls/zqhd.m3u8
+
+#EXTINF:-1 ,大众影视 高清
+http://58.200.190.80/hls/hls75a27.m3u8
+#EXTINF:-1 ,家庭剧场 高清
+http://58.200.190.80/hls/hls75a28.m3u8
+#EXTINF:-1 ,家庭影院 高清
+http://58.200.190.80/hls/hls75a29.m3u8
+#EXTINF:-1 ,卡通剧场 高清
+http://58.200.190.80/hls/hls77a30.m3u8
+#EXTINF:-1 ,动漫秀场 高清
+http://58.200.190.80/hls/hls184a636.m3u8
+#EXTINF:-1 ,游戏风云 高清
+http://58.200.190.80/hls/hls184a637.m3u8
+#EXTINF:-1 ,晴天动画馆 高清
+http://58.200.190.80/hls/hls78a47.m3u8
+#EXTINF:-1 ,时光剧场 高清
+http://58.200.190.80/hls/hls78a48.m3u8
+#EXTINF:-1 ,CETV-1 高清
+http://58.200.190.80/hls/hls67a45.m3u8
+#EXTINF:-1 ,快乐垂钓 高清
+http://58.200.190.80/hls/hls186a69.m3u8
+#EXTINF:-1 ,茶频道 高清
+http://58.200.190.80/hls/hls186a70.m3u8
+#EXTINF:-1 ,法制天地 高清
+http://58.200.190.80/hls/hls184a89.m3u8
+#EXTINF:-1 ,金色频道 高清
+http://58.200.190.80/hls/hls184a90.m3u8
+#EXTINF:-1 ,生活时尚 高清
+http://58.200.190.80/hls/hls184a91.m3u8
+#EXTINF:-1 ,Max极速汽车 高清
+http://58.200.190.80/hls/hls184a94.m3u8
+#EXTINF:-1 ,都市剧场 高清
+http://58.200.190.80/hls/hls185a95.m3u8
+#EXTINF:-1 ,欢笑剧场 高清
+http://58.200.190.80/hls/hls185a97.m3u8
