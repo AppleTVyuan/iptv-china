@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 ,CCTV-2HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 ,CCTV-3HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 ,CCTV-4HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 ,CCTV-5HD
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv5hd/2300000/mnf.m3u8
+#EXTINF:-1 ,CCTV-6HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 ,CCTV-7HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 ,CCTV-8HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 ,CCTV-9HD
+http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CCTV-10HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
+#EXTINF:-1 ,CCTV-11HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 ,CCTV-12HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 ,CCTV-13HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+
+
+
+
+
+
